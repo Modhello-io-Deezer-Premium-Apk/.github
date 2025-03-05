@@ -4,7 +4,7 @@
 
 Deezer Premium Apk es una aplicación de **streaming de música** que ofrece una inmensa biblioteca de canciones, podcasts y contenido de audio. Los usuarios pueden acceder a más de **73 millones de canciones**, disfrutar de **reproducción sin conexión**, y experimentar un **sonido en alta fidelidad (HiFi)**. Esta versión premium elimina los anuncios y mejora la experiencia de escucha con opciones avanzadas como listas de reproducción personalizadas y calidad de audio sin pérdidas (FLAC).
 
-## Descargar Ahora: https://modhello.io/deezer.html
+## Descargar Ahora: https://modhello.net/deezer.html
 
 ![image](https://github.com/user-attachments/assets/72152ea1-152e-45ca-9c60-3ce2df0dbc84)
 
